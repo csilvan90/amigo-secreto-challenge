@@ -17,6 +17,9 @@ Sortear un amigo secreto aleatoriamente.
 
 
 Cómo usarlo
+Para acceder al juego ingrese al siguiente link:
+
+https://csilvan90.github.io/amigo-secreto-challenge/
 
 Escribe un nombre en el campo de texto y presiona "Añadir".
 
